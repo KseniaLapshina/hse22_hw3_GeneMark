@@ -2,10 +2,10 @@
 
 Реализован один из алгоритмов предсказания генов семейства Genemark https://colab.research.google.com/drive/1Xqe-TA6rbDnQ7Rd2t-1XD-GsnUqkFBUW?usp=sharing.
 
-В результате применения алгоритма поска на + стрэнде к участку 1000 - 4100 получили графики:
-![image](https://user-images.githubusercontent.com/114621114/200198919-794c32d5-637d-495c-8f7c-d704481b6dc8.png)
-![image](https://user-images.githubusercontent.com/114621114/200198955-8ee1ff1f-f131-4801-97bb-3e13802d4787.png)
-![image](https://user-images.githubusercontent.com/114621114/200198984-cd9a98f5-f628-419c-b76a-8c52bb09a035.png)
+В результате применения алгоритма поска на + стрэнде к участку 0 - 3100 получили графики:
+![image](https://user-images.githubusercontent.com/114621114/200201722-dceeb938-d29d-4bf0-9812-b34a4bc8494f.png)
+![image](https://user-images.githubusercontent.com/114621114/200201749-7028ba36-a780-4333-b3bc-408187095963.png)
+![image](https://user-images.githubusercontent.com/114621114/200201764-8e4ed2a8-466b-4f78-88f6-7d2f4a160562.png)
 
 ### Бонусная часть задания 2
 В результате применения алгоритма поска на + и - стрэнде к участку 10000 - 13100 получили графики:
